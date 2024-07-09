@@ -1,1 +1,1 @@
-jertel/elastalert2:2.4.0
+kwinwong/knife4j-html:4.5.0
