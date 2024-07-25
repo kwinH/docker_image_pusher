@@ -1,1 +1,1 @@
-kwinwong/knife4j-html:4.5.1-stable-alpine-slim
+kwinwong/knife4j-html:4.5.2-stable-alpine-slim
