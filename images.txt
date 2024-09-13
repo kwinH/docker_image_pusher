@@ -1,1 +1,1 @@
-wiznote/wizserver:latest
+easzlab/pause:3.6
